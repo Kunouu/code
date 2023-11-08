@@ -14,7 +14,7 @@ else:
 
 import statistics
 
-numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+numbers = [1, 2, 3, 4, 5,] #akljdasjlk;djaskdk
 result = statistics.mean(numbers)
 
 print(f"Среднее арифметическое: {result}")
